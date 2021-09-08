@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: b6e53bffa19bab545a25232cb0f96784
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: human_2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box001
+      parentName: human_2(Clone)
+      position: {x: 0.0018025063, y: 1.1105026, z: 0.005214652}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 0.539107, z: 0.796771}
+    - name: Box002
+      parentName: human_2(Clone)
+      position: {x: 0.0018024934, y: 0.6171588, z: -0.24998909}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.774987, y: 0.198961, z: 0.341331}
+    - name: Box003
+      parentName: human_2(Clone)
+      position: {x: 0.0018025184, y: 0.6171587, z: 0.24620314}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.774987, y: 0.198961, z: 0.341331}
+    - name: Box004
+      parentName: human_2(Clone)
+      position: {x: 0.0018024934, y: 0.12830186, z: -0.24998912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.774987, y: 0.198961, z: 0.341331}
+    - name: Box005
+      parentName: human_2(Clone)
+      position: {x: 0.0018025184, y: 0.12830178, z: 0.24620314}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.774987, y: 0.198961, z: 0.341331}
+    - name: Box006
+      parentName: human_2(Clone)
+      position: {x: -0.13808984, y: 0.039759345, z: -0.24998912}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.715383, y: 0.198961, z: 0.082126}
+    - name: Box007
+      parentName: human_2(Clone)
+      position: {x: -0.1380898, y: 0.039759345, z: 0.24620314}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.715383, y: 0.198961, z: 0.082126}
+    - name: Box009
+      parentName: human_2(Clone)
+      position: {x: 0.0018025499, y: 2.210823, z: 1.009427}
+      rotation: {x: 1, y: -0, z: 0, w: 0.000000021855694}
+      scale: {x: 0.627495, y: 0.114590004, z: 0.391595}
+    - name: Box011
+      parentName: human_2(Clone)
+      position: {x: 0.0018025744, y: 2.210823, z: 1.5702732}
+      rotation: {x: 1, y: -0, z: 0, w: 0.000000021855694}
+      scale: {x: 0.627495, y: 0.114590004, z: 0.391595}
+    - name: Box012
+      parentName: human_2(Clone)
+      position: {x: 0.0018025063, y: 2.2691681, z: 0.0061253062}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.52630603, y: 0.125563, z: 0.13604501}
+    - name: Sphere001
+      parentName: human_2(Clone)
+      position: {x: 0.0007393928, y: 2.6237519, z: 0.0006758187}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.507235, y: 1.507235, z: 1.507235}
+    - name: Box013
+      parentName: human_2(Clone)
+      position: {x: 0.0018024633, y: 2.210823, z: -0.97463757}
+      rotation: {x: 1, y: -0, z: 0, w: 0.000000021855694}
+      scale: {x: 0.627495, y: 0.114590004, z: 0.391595}
+    - name: Box014
+      parentName: human_2(Clone)
+      position: {x: 0.0018024876, y: 2.210823, z: -0.41379142}
+      rotation: {x: 1, y: -0, z: 0, w: 0.000000021855694}
+      scale: {x: 0.627495, y: 0.114590004, z: 0.391595}
+    - name: Sphere002
+      parentName: human_2(Clone)
+      position: {x: 0.00073940033, y: 2.2077315, z: 1.710048}
+      rotation: {x: -0.7071068, y: -4.015343e-10, z: -4.0153433e-10, w: 0.7071068}
+      scale: {x: 0.781111, y: 0.801406, z: 0.801406}
+    - name: Sphere003
+      parentName: human_2(Clone)
+      position: {x: 0.0007392514, y: 2.207732, z: -1.697494}
+      rotation: {x: -0.7071068, y: -4.015343e-10, z: -4.0153433e-10, w: 0.7071068}
+      scale: {x: 0.781111, y: 0.801406, z: 0.801406}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

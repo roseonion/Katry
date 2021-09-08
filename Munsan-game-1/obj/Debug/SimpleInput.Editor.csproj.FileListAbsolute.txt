@@ -1,0 +1,2 @@
+C:\Users\stu\Desktop\new-project-feargame-public-main\Munsan-game-1\obj\Debug\SimpleInput.Editor.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\new-project-feargame-public-main\Munsan-game-1\obj\Debug\SimpleInput.Editor.csproj.CoreCompileInputs.cache
